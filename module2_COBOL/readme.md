@@ -1,8 +1,21 @@
 🎓 Balerica 8-Week COBOL Plan (Card-Centered Learning)
 
-Goal at end:
+Goal at end: Student can hold a punch card and explain what every column does.
 
-Student can hold a punch card and explain what every column does.
+🧭 OVERALL LAB ARC
+
+| Week | Lab Theme           | Core Skill         |
+| ---- | ------------------- | ------------------ |
+| 1    | Card Anatomy        | Column discipline  |
+| 2    | Hello, Structure    | Divisions          |
+| 3    | Data as Description | PIC clauses        |
+| 4    | Movement & Math     | MOVE, ADD, COMPUTE |
+| 5    | Decisions           | IF logic           |
+| 6    | Loops & Control     | PERFORM            |
+| 7    | File Processing     | Sequential files   |
+| 8    | Mini Batch System   | Full integration   |
+
+
 
 📅 WEEK 1 — “What Is COBOL Really?”
 Focus:
