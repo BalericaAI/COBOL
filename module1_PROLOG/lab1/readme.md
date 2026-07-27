@@ -2,14 +2,14 @@
 WEEK 1 — “Programming as Conversation”
 Goal:
 
-Students understand:
-
 Facts
 Rules
 Queries
 Backtracking
 
 Use SWI-Prolog (simple install, cross-platform).
+
+brew install swi-prolog
 
 Let's Start with something human:
 
