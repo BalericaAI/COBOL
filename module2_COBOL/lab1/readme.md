@@ -14,7 +14,7 @@ Lab Activities
    
 Exercise:
 
-Troubleshoot a broken sample and ask:
+Troubleshoot a broken sample and answer:
 
     What column error exists?
 
