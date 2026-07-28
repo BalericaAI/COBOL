@@ -29,3 +29,34 @@ Lab:
 You must explain:
 
     Why PIC matters.
+
+Homework 
+
+📅 WEEK 3 — MOVE and Arithmetic
+📖 Stern Reading
+
+        MOVE
+        ADD, SUBTRACT, MULTIPLY, DIVIDE
+        COMPUTE
+
+🧪 Homework Lab 3: Payroll Engine (Single Record)
+
+Students must:
+
+Accept predefined salary and tax rate
+Calculate:
+
+        Gross
+        Tax
+        Net
+
+Constraints:
+
+        Must use COMPUTE once
+        Must use MOVE explicitly
+        Must format output
+
+Brain-Stick Exercise
+
+        Trace values on paper.
+        No running the program until you’ve predicted output.
