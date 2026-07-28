@@ -18,4 +18,32 @@ Use:
     ROUNDED
     Proper numeric PIC
 
-Lab twist: Give them incorrect PIC and show overflow behavior.
+Lab twist: Evaluate incorrect PIC and show overflow behavior.
+
+
+Homework
+
+📅 WEEK 4 — IF Logic
+📖 Stern Reading
+
+        IF
+        Nested IF
+        Structured flow
+
+🧪 Lab 4: Classification Engine
+
+Build:
+
+        Risk classification system
+        Discount eligibility logic
+
+Must include:
+
+        Nested IF
+        Logical conditions
+        Proper indentation
+
+Then refactor into cleaner structure.
+
+Discuss: Why structured programming exists.
+
