@@ -21,3 +21,22 @@ Discuss:
 
     Which is clearer?
 
+Homework
+
+📅 WEEK 5 — EVALUATE (Structured Decision Making)
+📖 Stern Reading
+
+        Multi-way decisions
+        Structured alternatives
+
+🧪 Lab 5: Grade or Tier System
+
+Implement:
+
+        IF-based solution
+        EVALUATE-based solution
+
+Students compare readability.
+
+This is where you should recognize: Structure improves maintainability.
+
